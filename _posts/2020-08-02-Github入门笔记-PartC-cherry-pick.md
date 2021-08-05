@@ -1,11 +1,13 @@
 ---
 title: Github入门笔记-PartC-cherry-pick
+
 author: Lee （摘自 阮一峰的博客）
-date: 2021-8-4 14:06:43 +0800
-categories: [Blogging, Tutorial,读书笔记组]
+
+date: 2021-8-2 12:06:43 +0800
+
+categories: [技术, Github]
+
 tags: [GitHub, GitHub 101, GitHub 漫游指南, Git工作流程, 阮一峰, Github入门笔记]
-pin: true
-include: images
 ---
 
 # Github入门笔记-PartC-cherry-pick
